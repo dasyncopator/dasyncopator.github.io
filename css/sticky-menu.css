@@ -32,39 +32,51 @@ html {
     position: fixed;
     bottom: 50px;
     right: 0;
-    background-color: #FFF;
-    color: #337AB7;
+    background-color: #000;
+    color: #3354b7;
     text-align: center;
     font-size: 30px;
     text-decoration: none;
+    text-color: #91adeb;
 }
 #back2Top:hover {
-    background-color: #337AB7;
-    color: #FFF;
+    background-color: #3354b7;
+    color: #000;
 }
-.welcome-section {
+.bio-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #fff;
+    text-color: #91adeb;
+    background: #000;
 }
-.about-section {
+.cv-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #EFDECD;
+    text-color: #91adeb;
+    background: #0e224f;
 }
-.whatwedo-section {
+.projects-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #fff;
+    text-color: #91adeb;
+    background: #000;
+}
+.music-section {
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    text-color: #91adeb;
+    background: #0e224f;
 }
 .contact-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #EFDECD;
+    text-color: #91adeb;
+    background: #000;
 }
 .navbar-default .navbar-nav > li > a:hover {
 	color: #333;
