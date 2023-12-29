@@ -37,7 +37,7 @@ html {
     text-align: center;
     font-size: 30px;
     text-decoration: none;
-    text-color: #91adeb;
+    text-color: #dae5f7;
 }
 #back2Top:hover {
     background-color: #3354b7;
@@ -47,42 +47,42 @@ html {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    text-color: #dee8ff;
+    text-color: #dae5f7;
     background: #000;
 }
 .bio-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    text-color: #dee8ff;
+    text-color: #dae5f7;
     background: #000;
 }
 .cv-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    text-color: #dee8ff;
+    text-color: #dae5f7;
     background: #0e224f;
 }
 .projects-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    text-color: #dee8ff;
+    text-color: #dae5f7;
     background: #000;
 }
 .music-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    text-color: #dee8ff;
+    text-color: #dae5f7;
     background: #0e224f;
 }
 .contact-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    text-color: #dee8ff;
+    text-color: #dae5f7;
     background: #000;
 }
 .navbar-default .navbar-nav > li > a:hover {
