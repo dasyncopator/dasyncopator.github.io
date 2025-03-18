@@ -4,6 +4,8 @@
 
 body {
   background-color: black;
+  background-image: url(images/logo_bit.jpg);
+  background-repeat: space;
   color: peachpuff;
   font-family: Verdana;
 }
